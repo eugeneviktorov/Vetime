@@ -1,0 +1,37 @@
+a{
+    text-decoration: none;
+    color: #000000;}
+
+a:hover{color: #b07eff;}
+
+br{
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */}
+
+.g1{
+    text-align: center;
+    margin-top: 20px;
+    color: #000000;
+    cursor: default;
+    font-size: 50px;}
+
+.g2{
+    text-align: center;
+    margin-left: -70px;
+    margin-top: -55px;
+    color: #000000;
+    cursor: default;
+    font-size: 12px;}
+
+.g3{
+    text-align: center;
+    margin-top: 60px;
+    color: #000000;
+    font-size: 25px;}
+
+.g4{
+    text-align: center;
+    margin-top: -7px;
+    font-size: 25px;}
